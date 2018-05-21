@@ -1,2 +1,8 @@
 hoge
+<<<<<<< HEAD
+hage
+=======
 kjadsf
+>>>>>>> cd262d86132affb373b18af54b15bdd84e177460
+
+saiki ha ks
